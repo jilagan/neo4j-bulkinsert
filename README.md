@@ -9,5 +9,5 @@ Features:
 TBD
 
 Updates:
-April 20, 2014
+April 20, 2014: Pushed from test mac client
 TBD
